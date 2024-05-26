@@ -6,6 +6,7 @@
 <div id="header" align=center>
   <img src="https://komarev.com/ghpvc/?username=Kartik-Patidar-7375&color=green&base=1548&style=for-the-badge">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Patidar-7375">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Patidar-7375&color=black">
 
 </div>
