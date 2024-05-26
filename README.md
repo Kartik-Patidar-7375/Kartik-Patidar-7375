@@ -5,6 +5,7 @@
 ![alt text](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaDXQ90g-0OU2BxK1luaZqi27eMG4aUAXMk3_Twcr1GKZEk5aJ-kM2V9FlNvqE3SsoyyFI5o5sGiRS4DinnKe5qA9Gl1TLGToo=w1920-h1032-rw-v1)
 <div id="header" align=center>
   <img src="https://komarev.com/ghpvc/?username=Kartik-Patidar-7375&color=green&base=1548&style=for-the-badge">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Patidar-7375">
+
 </div>
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Patidar-7375)](https://github.com/Kartik-Patidar-7375/github-readme-stats)
