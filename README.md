@@ -7,5 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=Kartik-Patidar-7375&color=green&base=1548&style=for-the-badge">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Patidar-7375&color=black">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Patidar-7375&theme=dark">
+  <br>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Kartik-Patidar-7375&theme=dark">
 </div>
