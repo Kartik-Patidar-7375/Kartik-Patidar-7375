@@ -14,7 +14,4 @@
   <br>
   <br>
   <h4>For Full Access of Readme File Email at @codewithkartik41@gmail.com.</h4>
-  <br>
-  <br>
-  <button href="mailto:codewithkartik41@gmail.com">>>> Email Me <<<</button>
 </div>
