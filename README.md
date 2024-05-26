@@ -9,6 +9,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Patidar-7375&theme=dark&width=200px">
   <br>
-  <br>
+  <br> 
   <img src="https://streak-stats.demolab.com/?user=Kartik-Patidar-7375&theme=dark&width=200px">
 </div>
